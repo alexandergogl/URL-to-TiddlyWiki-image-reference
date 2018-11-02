@@ -1,6 +1,6 @@
 # Alfred workflow. URL to TiddlyWiki5 image reference
 
-[Alfred](https://www.alfredapp.com/) workflow that converts the url of an image to a TiddlyWiki5 image URL. For example:
+[Alfred](https://www.alfredapp.com/) workflow that converts the url of an image to a [TiddlyWiki5](https://tiddlywiki.com/) image URL. For example:
 
 
 
@@ -15,6 +15,6 @@ Dask arrays scale Numpy workflows, enabling multi-dimensional data analysis in e
 </figcaption>
 ```
 
-What looks like this in [TiddlyWiki](https://tiddlywiki.com/):
+What looks like this in TiddlyWiki:
 
 ![example-01](img/example-01.png)
