@@ -15,4 +15,6 @@ Dask arrays scale Numpy workflows, enabling multi-dimensional data analysis in e
 </figcaption>
 ```
 
+What looks like this in [TiddlyWiki](https://tiddlywiki.com/):
+
 ![example-01](img/example-01.png)
