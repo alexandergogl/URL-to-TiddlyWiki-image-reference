@@ -9,7 +9,7 @@ def url_to_tiddly_imgref(Text, Delimiter=' '):
     splitted = Text.split(Delimiter, 1)
 
     # Format URL
-    imgref = imgref = '[img[%s]]' % splitted[0]
+    imgref = '[img[%s]]' % splitted[0]
 
     # Format caption
     if len(splitted) > 1:
