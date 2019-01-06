@@ -17,4 +17,4 @@ Dask arrays scale Numpy workflows, enabling multi-dimensional data analysis in e
 
 What looks like this in TiddlyWiki:
 
-![example-01](img/example-01.png)
+![Dask arrays scale Numpy workflows, enabling multi-dimensional data analysis in earth science, satellite imagery, genomics, biomedical applications, and machine learning algorithms.](img/example-01.png)
