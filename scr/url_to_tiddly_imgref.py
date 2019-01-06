@@ -13,9 +13,7 @@ def url_to_tiddly_imgref(Text, Delimiter=' '):
 
     # Format caption
     if len(splitted) > 1:
-        caption = "<figcaption>\n%s\n</figcaption>" % splitted[1]
-        # Remove line breaks
-        caption = caption.replace("\n", " ")
+        caption = "<figcaption>\n%s\n</figcaption>" % splitted[1].replace("\n", " ")
 
         # Compose TiddlyWiki entry
         entry = "%s\n%s" % (imgref, caption)
